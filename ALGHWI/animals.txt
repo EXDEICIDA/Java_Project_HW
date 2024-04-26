@@ -1,0 +1,14 @@
+monkey
+penguin
+dolphin
+umbrella
+bird
+wildebeest
+zebra
+dog
+tarantula
+cow
+snake
+lion
+cat
+elephant
